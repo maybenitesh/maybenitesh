@@ -1,5 +1,11 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm an  **Data Analyst** with a passion for turning raw data into meaningful insights and solving real-world problems. I enjoy building projects using **Excel, SQL, Python, and Power BI**, creating interactive dashboards, and continuously improving my analytical skills through hands-on practice.<br><br>I'm currently focused on strengthening my knowledge of **Advanced Power BI (DAX & Power Query), SQL, Python (Pandas), and data storytelling** while building a portfolio of real-world analytics projects. My goal is to gain practical experience, keep learning, and grow into a professional Data Analyst by working on meaningful business problems.<br><br>If you're interested in **data analytics, business intelligence, dashboard design, Excel, SQL, Python, or Power BI**, feel free to connect. I believe every dataset has a story to tell, and I enjoy finding insights that help make better decisions. Outside of analytics, I like documenting my learning journey, creating content, and challenging myself to learn something new every day.<br>
+## 👋 About Me
+I am a Data Analyst with a strong passion for turning raw, complex data into clear, actionable insights and solving real-world business problems.
+
+What I Do: Build end-to-end data pipelines, interactive dashboards, and exploratory data analyses using Python, SQL, Power BI, and Excel.
+Current Focus: Deepening expertise in Advanced Power BI (DAX & Power Query), complex SQL querying, statistical data manipulation with Pandas/NumPy, and executive data storytelling.
+Philosophy: Every dataset has a story to tell—my goal is to uncover that narrative to drive better business decisions.
+Hobbies: Documenting my learning journey, creating technical content, and continuously learning new analytics frameworks.
+<br>
 
 
 ## 🌐 Socials::
