@@ -1,7 +1,7 @@
-# 💫 Utpal Jani | Data Analyst
+# 💫 Nitesh Pal | Data Analyst
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
 ---
@@ -18,16 +18,16 @@ I am a **Data Analyst** with a strong passion for turning raw, complex data into
 ### 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/utpal-jani-20ba25304" target="_blank">
+  <a href="https://linkedin.com/in/nitesh-pal-85a092309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="utpaljani510@gmail.com">
+  <a href="niteshpal1250@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-<a href="https://instagram.com/utpal_jani_1984" target="_blank">
+<a href="https://instagram.com/niteshh_pal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/utpaljani510" target="_blank">
+  <a href="https://www.hackerrank.com/profile/niteshpal1250" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </div>
@@ -62,7 +62,7 @@ I am a **Data Analyst** with a strong passion for turning raw, complex data into
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Utpaljani20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Utpal's GitHub Stats" width="48%" />-->
   <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utpaljani20&theme=tokyonight&hide_border=true" alt="Utpal's Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maybenitesh&theme=tokyonight&hide_border=true" alt="Nitesh's Streak Stats" width="48%" />
 </div>
 <!--
 <br />
